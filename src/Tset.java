@@ -7,7 +7,7 @@ public class Tset {
 
 
 class A{
-    static int a = 15;
+    static int a = 20;
     void fun1(){
         System.out.println(a);
     }
